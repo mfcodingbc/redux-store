@@ -11,7 +11,7 @@ The Shop-Shop site allows a user to "checkout" various items after logging in an
 
 Check out the [Shop-Shop](https://blooming-thicket-74730.herokuapp.com/) Site.
 
-![Shop-Shop site homepage](./assets/images/shop_shop_homepage.png)
+![Shop-Shop site homepage](./assets/images/shop_shop_homepage.PNG)
 
 ## Usage
 
